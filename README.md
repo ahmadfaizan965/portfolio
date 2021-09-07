@@ -1,7 +1,6 @@
 # Personal Portfolio
 
-<a>www.
-
+<strong>```https://ahmadfaizan965.github.io/portfolio```</strong>
 ### Programs/Tools Used
 1. HTML 5
 1. CSS 3
